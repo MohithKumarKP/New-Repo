@@ -1,3 +1,3 @@
 # New-Repo
 My first Repo
-author - Mohith KP
+author - Mohith Kumar KP
